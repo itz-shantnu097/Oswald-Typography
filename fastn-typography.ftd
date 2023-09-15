@@ -1,14 +1,14 @@
 -- import: fifthtry.github.io/package-doc/doc as pd
 -- import: fifthtry.github.io/package-doc/forest-theme as ds
 -- import: fifthtry.github.io/package-doc/footer
--- import: <user_name>.github.io/<repo_name>
+-- import: itz-shantnu097.github.io/oswald-typography
 
 
 
 
 -- ds.page: 
 show-footer: true
-site-name: `<repo_name>`
+site-name: `oswald-typography`
 
 -- ds.page.footer:
 
@@ -16,14 +16,14 @@ site-name: `<repo_name>`
 
 -- end: ds.page.footer
 
--- pd.package: <repo_name>
-name: <user_name>.github.io/<repo_name>
+-- pd.package: oswald-typography
+name: itz-shantnu097.github.io/oswald-typography
 
-Below are our default fastn `inherited` font types of <repo_name>.
+Below are our default fastn `inherited` font types of oswald-typography.
 
 
 -- display-type:
-types: $<repo_name>.types
+types: $oswald-typography.types
 
 
 -- end: ds.page
