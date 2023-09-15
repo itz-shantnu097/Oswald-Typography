@@ -9,7 +9,7 @@ zip: github.com/fifthtry/Oswald-Typography/archive/refs/heads/main.zip
 ;; replace inter-font package name with font package name you want to create
 ;; typography document for:
 
--- fastn.dependency: fifthtry.github.io/inter-font
+-- fastn.dependency: itz-shantnu097.github.io/Oswald-Typography
 
 
 
