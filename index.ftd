@@ -1,7 +1,7 @@
 -- import: fifthtry.github.io/package-doc/doc as pd
 -- import: fifthtry.github.io/package-doc/forest-theme as ds
 -- import: fifthtry.github.io/package-doc/footer
--- import: itz-shantnu097.github.io/Oswald-Typography/FASTN/assets as oswald-assets
+-- import: itz-shantnu097.github.io/Oswald-Typography/assets as oswald-assets
 
 ;; ⚠️fastn-builders::⚠️ before using this file please find and replace oswald-font
 ;; with font package name you have given inside this package 
@@ -237,14 +237,14 @@ line-height.px: 60
 size.px: 52
 letter-spacing.px: 0
 weight: 700
-font-family: $oswald-assets.fonts.oswald
+font-family: $oswald-assets.fonts.Oswald
 
 -- ftd.type heading-hero-desktop:
 line-height.px: 60
 size.px: 52
 letter-spacing.px: 0
 weight: 700
-font-family: $oswald-assets.fonts.oswald
+font-family: $oswald-assets.fonts.Oswald
 
 -- ftd.responsive-type heading-hero:
 desktop: $heading-hero-desktop
