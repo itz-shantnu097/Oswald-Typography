@@ -23,7 +23,7 @@ Below are our default fastn `inherited` font types of oswald-typography.
 
 
 -- display-type:
-types: $oswald-typography.types
+types: $Oswald-Typography.types
 
 
 -- end: ds.page
